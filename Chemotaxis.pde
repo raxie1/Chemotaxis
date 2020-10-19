@@ -1,3 +1,6 @@
+Bacteria[] colony = new Bacteria[640]; 
+int population = 5;
+int index, newX, newY, blue, counter;
 void setup()   
 {     
   size(600, 600);
